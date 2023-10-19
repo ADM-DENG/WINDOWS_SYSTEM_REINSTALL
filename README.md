@@ -17,7 +17,7 @@
 
 <body>
 <div align="center">
-<img src="01.jpg" alt="*.jpg">
+<img src="./res/01.jpg" alt="*.jpg">
 <p>别犯傻乱删</p>
 </div>
 </body>
@@ -29,14 +29,14 @@
 
 <body>
 <div align="center">
-<img src="08.gif" alt="*.gif">
+<img src="./res/08.gif" alt="*.gif">
 </div>
 </body>
 
 **！❗！注意：**
 <body>
 <div align="center">
-<img src="02.jpg" alt="*.jpg">
+<img src="./res/02.jpg" alt="*.jpg">
 <p>不要在这里进行系统部署</p>
 </div>
 </body>
@@ -46,8 +46,8 @@
 
 <body>
 <div align="center">
-<img src="03.jpg" alt="*.jpg">
-<img src="04.jpg" alt="*.jpg">
+<img src="./res/03.jpg" alt="*.jpg">
+<img src="./res/04.jpg" alt="*.jpg">
 <p>其实就是启动引导出bug了，或者说是引导写错了</p>
 </div>
 </body>
@@ -58,9 +58,9 @@
 想要了解家庭版，专业版和企业版的差别可百度到对比信息。） 
 <body>
 <div align="center">
-<img src="05.jpg" alt="*.jpg">
-<img src="06.jpg" alt="*.jpg">
-<img src="07.jpg" alt="*.jpg">
+<img src="./res/05.jpg" alt="*.jpg">
+<img src="./res/06.jpg" alt="*.jpg">
+<img src="./res/07.jpg" alt="*.jpg">
 </div>
 </body>
 Windows镜像可以去微软官方网站下载，还有MSDN网站，都是纯净无修改的。至此，本文的主题、目的结束。  
@@ -80,7 +80,7 @@ Windows镜像可以去微软官方网站下载，还有MSDN网站，都是纯净
 
 <body>
 <div align="center">
-<img src="10.gif" alt="*.gif">
+<img src="./res/10.gif" alt="*.gif">
 </div>
 </body>
 
@@ -101,7 +101,7 @@ Windows镜像可以去微软官方网站下载，还有MSDN网站，都是纯净
 
 <body>
 <div align="center">
-<img src="09.gif" alt="*.gif">
+<img src="./res/09.gif" alt="*.gif">
 <p>~END~</p>
 </div>
 </body>
