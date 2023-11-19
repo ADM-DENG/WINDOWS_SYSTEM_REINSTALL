@@ -1,5 +1,5 @@
 # WINDOWS_SYSTEM_REINSTALL
-###### 关键词：INACCESSIBLE_BOOT_DEVICE，系统重装蓝屏，windows系统纯净重装，NO BOOT DEVICE ~
+###### 关键词：INACCESSIBLE_BOOT_DEVICE，系统重装蓝屏，windows系统纯净重装，NO BOOT DEVICE
  
 >介绍：
 >>1、本文是我多次重装系统所总结的经验，发表文章只是分享快乐；  
