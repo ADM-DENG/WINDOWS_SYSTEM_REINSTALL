@@ -33,7 +33,7 @@
 </div>
 </body>
 
-**！❗！注意：**
+**！№！注意：**
 <body>
 <div align="center">
 <img src="./res/02.jpg" alt="*.jpg">
