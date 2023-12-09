@@ -1,5 +1,5 @@
 # WINDOWS_SYSTEM_REINSTALL
-###### 关键词：INACCESSIBLE_BOOT_DEVICE，系统重装蓝屏，windows系统纯净重装，NO BOOT DEVICE
+<b> 关键词：INACCESSIBLE_BOOT_DEVICE，系统重装蓝屏，windows系统纯净重装，NO BOOT DEVICE </b>
  
 >介绍：
 >>1、本文是我多次重装系统所总结的经验，发表文章只是分享快乐；  
@@ -97,7 +97,7 @@ Windows镜像可以去微软官方网站下载，还有MSDN网站，都是纯净
 
 ①单纯的升级系统推荐使用微软官方的工具；  
 ②另外是系统故障，需要重装，或者自己想要换个系统，这就会用到一些第三方重装软件。  
-&emsp;&emsp;典型的韩博士，云骑士，小白装机，大白菜这些都捆绑了一些软件，觉得可以忍受倒是没啥大问题，都可以用。捆绑后面可以手动卸载。但是！亟可能存在一些安全问题。并且这些第三方软件在重装完后，默认直接启用的是 administrator 用户（不建议使用）。WEPE，优启通，[冰封PE](http://www.bfgho.com/)，[FirPE](https://firpe.cn/page-196) 都是无捆绑的好工具。
+&emsp;&emsp;典型的韩博士，云骑士，小白装机，大白菜这些都捆绑了一些软件，觉得可以忍受倒是没啥大问题，都可以用。捆绑后面可以手动卸载。但是！亟可能存在一些安全问题。并且这些第三方软件在重装完后，默认直接启用的是 administrator 用户（不建议使用）。WEPE，优启通，[冰封PE](http://www.bfgho.com/)，[FirPE](https://firpe.cn/page-196) 都是无捆绑的好工具。当然，即使pe工具捆绑了一些第三方软件，只要是将系统安装过程全权托管给镜像自带的安装程序，那就不会出现捆绑软件。
 
 <body>
 <div align="center">
