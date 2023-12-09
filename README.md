@@ -1,20 +1,28 @@
-# WINDOWS_SYSTEM_REINSTALL
-<b> 关键词：INACCESSIBLE_BOOT_DEVICE，系统重装蓝屏，windows系统纯净重装，NO BOOT DEVICE </b>
- 
+<!--md_document and html_label-->
+<h1>
+WINDOWS_SYSTEM_REINSTALL
+</h1>
+
+<b>
+关键词：INACCESSIBLE_BOOT_DEVICE，系统重装蓝屏，windows系统纯净重装，NO BOOT DEVICE
+</b>
+
 >介绍：
 >>1、本文是我多次重装系统所总结的经验，发表文章只是分享快乐；  
 >>2、本文初次分享是在 bilibili（<http://b23.tv/Nhkr5Un>）；  
 
-#### 文章结构：直入主题（***<a href="#s2">正文</a>***）+ 重装认知/谏言（***<a href="#s1">其它</a>***）
+<h4>
+文章结构：直入主题（<a href="#s2"><i>正文</i></a>）+ 重装认知/谏言（<a href="#s1"><i>其它</i></a>）
+</h4>
 
-### ***<h2 id="s2" align="center"> 正文 </h2>***
+<h2 id="s2" align="center"><i> 正文 </i></h2>
 
 <b>两个磁盘分区为例</b>
 > 注意：在重装系统时确保<b>重要文件</b>已经拷贝，一般情况下，PE系统可以进行文件拷贝。  
 > 建议：可以再分一个区别于c、d盘的e盘来存放拷贝的文件（优盘显得更鸡肋），包括iso镜像文件（重装速度更快）。这些建议的前提是：在重装前计算机依然能够正常使用！
 
 &emsp;&emsp;①优启通，wepe......可以直接部署PE系统在电脑磁盘，建议部署到U盘，镜像文件也准备好；再次强调：PE系统格式化C盘时确保重要文件已拷备，PE系统可以进行文件拷贝！（注意：一个分区只能存在一个操作系统！）  
-&emsp;&emsp;②PE系统启动U盘：
+&emsp;&emsp;②PE系统启动U盘（不同的工具可能会有所区别）：
 
 <body>
 <div align="center">
@@ -71,13 +79,11 @@ Windows镜像可以去微软官方网站下载，还有MSDN网站，都是纯净
 
 &emsp;&emsp;我们这样安装的默认需要创建管理员用户，通过登录微软账户（也可以跳过到到后期）创建管理员（只是可能有些麻烦）。  
 &emsp;&emsp;系统默认关闭最高权限管理员账户（administrator）, 我们最好也别去开启最高权限用户，这也是不安全的（针对一些不知明&不安全的程序或指令静默运行，以及用户可能犯傻乱删），普通管理员是无法删除系统文件的。并且administrator账户被黑客破译的可能性更大，当然我们也只是普通用户。bitblock的功能不再赘述，windows的PIN密码是可以强制破译的。
- &emsp;&emsp;
 
-### ***<h2 id="s1" align="center"> 其它 </h2>***
+<h2 id="s1" align="center"><i> 其它 </i></h2>
 
 重装系统推荐：微软官方一键重装，[优启通](https://www.itsk.com/thread/430619)👍，[wepe](https://www.wepe.com.cn/download.html)。  
-&emsp;&emsp;系统重装保姆级教程 👉[硬件茶谈](https://www.bilibili.com/video/BV1DJ411D79y/)（bilibili）！另外，我的这个重装教程并不进阶，
-只是需要有一定电脑基础理论知识的认知，也是<u>**后期最简单易用**</u>的。  
+&emsp;&emsp;系统重装保姆级教程 👉[硬件茶谈](https://www.bilibili.com/video/BV1DJ411D79y/)（bilibili）！另外，我的这个重装教程并不进阶，只是需要有一定电脑基础理论知识的认知，也是<u>**后期最简单易用**</u>的。  
 
 <body>
 <div align="center">
@@ -98,7 +104,8 @@ Windows镜像可以去微软官方网站下载，还有MSDN网站，都是纯净
 
 ①单纯的升级系统推荐使用微软官方的工具；  
 ②另外是系统故障，需要重装，或者自己想要换个系统，这就会用到一些第三方重装软件。  
-&emsp;&emsp;典型的韩博士，云骑士，小白装机，大白菜这些都捆绑了一些软件，觉得可以忍受倒是没啥大问题，都可以用。捆绑后面可以手动卸载。但是！亟可能存在一些安全问题。并且这些第三方软件在重装完后，默认直接启用的是 administrator 用户（不建议使用）。WEPE，优启通，[冰封PE](http://www.bfgho.com/)，[FirPE](https://firpe.cn/page-196) 都是无捆绑的好工具。当然，即使pe工具捆绑了一些第三方软件，只要是将系统安装过程全权托管给镜像自带的安装程序，那就不会出现捆绑软件。
+&emsp;&emsp;典型的韩博士，云骑士，小白装机，大白菜这些都捆绑了一些软件，觉得可以忍受倒是没啥大问题，都可以用。捆绑后面可以手动卸载。但是！亟可能存在一些安全问题。并且这些第三方软件在重装完后，默认直接启用的是 administrator 用户（不建议使用）。WEPE，优启通，[冰封PE](http://www.bfgho.com/)，[FirPE](https://firpe.cn/page-196) 都是无捆绑的好工具。<br>
+&emsp;&emsp;当然，即使pe工具捆绑了一些第三方软件，只要是将系统安装过程全权托管给镜像自带的安装程序，那就不会出现捆绑软件。
 
 <body>
 <div align="center">
