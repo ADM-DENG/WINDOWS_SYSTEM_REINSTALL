@@ -83,7 +83,7 @@ Windows镜像可以去微软官方网站下载，还有MSDN网站，都是纯净
 <h2 id="s1" align="center"><i> 其它 </i></h2>
 
 重装系统推荐：微软官方一键重装，[优启通](https://www.itsk.com/thread/430619)👍，[wepe](https://www.wepe.com.cn/download.html)。  
-&emsp;&emsp;系统重装保姆级教程 👉[硬件茶谈](https://www.bilibili.com/video/BV1DJ411D79y/)（bilibili）！另外，我的这个重装教程并不进阶，只是需要有一定电脑基础理论知识的认知，也是<u><b>后期最简单易用</b></u>的。  
+&emsp;&emsp;系统重装保姆级教程 👉[硬件茶谈](https://www.bilibili.com/video/BV1DJ411D79y/)（bilibili）！另外，我介绍的这个重装教程并不进阶，只是需要有一定电脑基础理论知识的认知，也是<u><b>后期最简单易用</b></u>的。  
 
 <body>
 <div align="center">
