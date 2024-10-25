@@ -31,7 +31,7 @@ WINDOWS_SYSTEM_REINSTALL
 </div>
 </body>
 
-> <略> 进阶一点的玩法：使用微PE部署工具生成ISO启动文件存放到 [ventoy](https://www.ventoy.net/cn/index.html) 启动U盘。
+> <略> 进阶一点的玩法：使用微PE部署工具生成ISO启动文件存放到 [ventoy](https://www.ventoy.net/cn/index.html) 启动U盘（可能需要关闭BIOS安全模式/安全启动才能正常启动）。
 
 &emsp;&emsp;制作PE系统我使用的是优启通，在使用wepe时它无法识别出我的本地磁盘，因此无法进行磁盘清空操作。  
 &emsp;&emsp;微软官方制作的启动U盘也无法识别我的本地磁盘。（放弃）
