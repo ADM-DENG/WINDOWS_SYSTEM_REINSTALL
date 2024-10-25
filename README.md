@@ -9,7 +9,7 @@ WINDOWS_SYSTEM_REINSTALL
 
 >介绍：
 >>1、本文是我多次重装系统所总结的经验，发表文章只是分享快乐；  
->>2、本文初次分享是在 bilibili（<http://b23.tv/Nhkr5Un>）；  
+>>2、本文初次分享是在[bilibili](https://b23.tv/mzinksX)；  
 
 <h4>
 文章结构：直入主题（<a href="#s2"><i>正文</i></a>）+ 重装认知/谏言（<a href="#s1"><i>其它</i></a>）
