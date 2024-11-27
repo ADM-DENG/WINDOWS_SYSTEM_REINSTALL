@@ -25,8 +25,9 @@ WINDOWS_SYSTEM_REINSTALL
 &emsp;&emsp;重装系统在选择时，建议多了解一下，再或者将其交由专业的人去操作。win11 24H2 相比 23H2 版本有了太多的创新功能，进而影响到了iso镜像文件问内部数据结构，也包括镜像文件采用了新的分支合并、打包方式等等。从而导致了系统在硬件适配上出现一堆bug，特别是一些功能性bug。
 
 &emsp;&emsp;[了解windows更新日志](https://learn.microsoft.com/zh-cn/windows/release-health/windows11-release-information)👈  
+
+```英文页面：```  
 ```bash
-英文页面：
 https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
 ```
 
