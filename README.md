@@ -9,11 +9,35 @@ WINDOWS_SYSTEM_REINSTALL
 
 >介绍：
 >>1、本文是我多次重装系统所总结的经验，发表文章只是分享快乐；  
->>2、本文初次分享是在[bilibili](https://b23.tv/mzinksX)；  
+>>2、本文初次分享是在[bilibili]；  
+>>3、本文对小白来说信息量较大；  
+>>4、请以学者的态度阅读本文；
 
 <h4>
-文章结构：直入主题（<a href="#s2"><i>正文</i></a>）+ 重装认知/谏言（<a href="#s1"><i>其它</i></a>）
+文章结构：<a href="#s3"><i>前言</i></a> + 直入主题（<a href="#s2"><i>正文</i></a>）+ 重装认知/谏言（<a href="#s1"><i>其它</i></a>）
 </h4>
+
+<h2 id="s3" align="center"><i> 前言 </i></h2>
+
+&emsp;&emsp;系统选择：  
+&emsp;&emsp;windows系统推荐使用windows出厂时的系列版本，比如出厂 win10，那么后期就使用 win10 系列的版本。win11 也如此，但是啊！我这出厂是 win11 21H2，目前能流畅使用的上限只是 23H2 版本，我强制安装 24H2 版本后出现了一堆bug，在一些功能上影响了我的正常使用。我也装过 win10 系统，还算非常流畅，还不错，不过！我的一些驱动自己专门抽时间花了2到3天才得到解决，还为此特地做了各种解决方案的备份。特别是触摸板驱动和声卡驱动（累）。所以，重点就是：我们的电脑不要太过逾越升级超前的版本，也不要太过保守只使用旧版本系统，出厂电脑的硬件和系统都是经过一定优化、适配的（某些不知名品牌电脑除外）！你一个原装 win10 的系统跑去装 win7 的系统，只会让系统性能吃灰，浪费。  
+&emsp;&emsp;举个栗子：一个手脚健全，家境普通的大青年，没一个正紧的经济来源，一天就只想着当老板，还祥装老板（逾越）。同样是这样一个青年，但只会去捡垃圾卖钱，或者做环卫工人（守旧，才不对位）。当然，他非要这样的话，我们也只能保持尊重。  
+&emsp;&emsp;重装系统在选择时，建议多了解一下，再或者将其交由专业的人去操作。win11 24H2 相比 23H2 版本有了太多的创新功能，进而影响到了iso镜像文件问内部数据结构，也包括镜像文件采用了新的分支合并、打包方式等等。从而导致了系统在硬件适配上出现一堆bug，特别是一些功能性bug。
+
+&emsp;&emsp;[了解windows更新日志](https://learn.microsoft.com/zh-cn/windows/release-health/windows11-release-information)👈  
+```bash
+英文页面：
+https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
+```
+
+<body>
+<div align="center">
+<img src="./res/11.png" alt="*.jpg">
+<img src="./res/12.png" alt="*.jpg">
+</div>
+</body>
+
+&emsp;&emsp;什么样的版本（方案）适合，并且好用，自然就是采用最合适的方案。
 
 <h2 id="s2" align="center"><i> 正文 </i></h2>
 
