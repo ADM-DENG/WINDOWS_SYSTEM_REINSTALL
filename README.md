@@ -75,7 +75,7 @@ https://learn.microsoft.com/en-us/windows/release-health/windows11-release-infor
 </body>
 
  **不要** 使用PE盘自带的程序进行系统安装！！！
-否则会如下：
+否则大概率会如下：
 
 <body>
 <div align="center">
@@ -122,7 +122,7 @@ Windows镜像可以去微软官方网站下载，还有MSDN网站，都是纯净
 &emsp;&emsp;Bitblock起到保护磁盘数据的作用，但推荐关闭这个功能。磁盘分区C盘推荐80~160G（磁盘512G为准）。  
 &emsp;&emsp;系统报错：INACCESSIBLE_BOOT_DEVICE（无法访问启动设备）的原因有很多种，[傲梅科技](https://www.abackup.com/easybackup-tutorials/inaccessible-boot-device-windows-10-6540.html) 
 发表的文章就总结的比较全，网上的解决说法也是让人抓狂，什么安全模式启动，需要关这关那的，实操根本没啥用，因为一般人根本折腾不动。本文侧重的是系统重装,重装是最快解决问题的办法！
-还有一种：NO BOOT DEVICE，字面上的翻译，就是 EFI 引导没了，后面重启就只会到那个厂商为硬件刷入的BIOS面板，这个就需要用某些工具通过pe系统进行引导修复（没接触过），或者说直接重装👍。
+还有一种：NO BOOT DEVICE，字面上的翻译，就是 EFI 引导没了，后面重启就只会到那个厂商为硬件刷入的BIOS面板，这个就需要用某些工具通过pe系统进行引导修复（没接触过），或者说直接重装👍（闲来无事翻着翻着找到了修复efi引导的方法，下一篇笔记分享）。
 
 >注意：电脑只要没有人为在物理上对电脑有故意或非故意性的损坏，在一般情况下，都能通过重装解决 99% 的鸡皮蒜毛问题。  
 
